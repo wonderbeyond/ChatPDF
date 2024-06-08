@@ -1,0 +1,3 @@
+[submodule "hf-models/BAAI/bge-large-zh-v1.5"]
+	path = hf-models/BAAI/bge-large-zh-v1.5
+	url = git@hf.co:BAAI/bge-large-zh-v1.5
